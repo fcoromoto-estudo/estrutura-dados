@@ -1,0 +1,13 @@
+/target/
+test-output/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.jar
+src/main/java/resources/META-INF/lib/*.jar
+.metadata/
+/.factorypath
+bin
+webContent
